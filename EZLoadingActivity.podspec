@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.author           = { "goktugyil" => "gok-2@hotmail.com" }
   s.source           = { :git => "https://github.com/goktugyil/EZLoadingActivity.git", :tag => s.version.to_s }
   s.platform         = :ios, '8.0'
-  s.swift_version    = '4.2'
+  s.swift_version    = '5.0'
   s.requires_arc     = true
   s.source_files     = 'EZLoadingActivity.swift' 
 end
